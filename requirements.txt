@@ -1,3 +1,4 @@
 pyspark
 pandas 
 seaborn
+jupyter
